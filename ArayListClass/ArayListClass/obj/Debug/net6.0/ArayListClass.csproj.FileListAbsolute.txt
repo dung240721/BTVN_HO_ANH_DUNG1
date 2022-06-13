@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\bin\Debug\net6.0\ArayListClass.exe
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\bin\Debug\net6.0\ArayListClass.deps.json
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\bin\Debug\net6.0\ArayListClass.runtimeconfig.json
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\bin\Debug\net6.0\ArayListClass.dll
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\bin\Debug\net6.0\ArayListClass.pdb
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\ArayListClass.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\ArayListClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\ArayListClass.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\ArayListClass.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\ArayListClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\ArayListClass.dll
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\refint\ArayListClass.dll
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\ArayListClass.pdb
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\ArayListClass.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ArayListClass\ArayListClass\obj\Debug\net6.0\ref\ArayListClass.dll
